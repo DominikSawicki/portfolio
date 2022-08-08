@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio (work in progress)
 
 # About Me
 My name is Dominik Sawicki. I'm a master in management. I graduated from 
