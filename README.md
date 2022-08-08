@@ -1,8 +1,7 @@
 # Portfolio (work in progress)
 
 # About Me
-My name is Dominik Sawicki. I'm a master in management. I graduated from 
-University of Szczecin, Szczecin, Poland. Recently I realized that I'd like to become software tester. My long-term goal is to develop testing knowledge and technical skills. I'd like to share all of my experience in this readme file.
+My name is Dominik Sawicki. I graduated with a master degree in management at the University of Szczecin, Poland. Recently I realized that I'd like to become software tester. My long-term goal is to develop testing knowledge and technical skills. I'd like to share all of my experience in this readme file.
 
 # Tools
 * [draw.io](https://app.diagrams.net/) - Flowchart and diagram making software
