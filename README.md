@@ -8,6 +8,14 @@ University of Szczecin, Szczecin, Poland. Recently I realized that I'd like to b
 * [draw.io](https://app.diagrams.net/) - Flowchart and diagram making software
 # Tech Skills
 
+# Soft skills
+* Self-management skills
+* Ambition
+* Focus
+* Time management
+* Work ethic
+* Teamwork
+* Creativity
 # Certificates
 
 # Courses
