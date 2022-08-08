@@ -15,7 +15,8 @@ University of Szczecin, Szczecin, Poland. Recently I realized that I'd like to b
 # Books
 
 # Facebook groups
-
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
+* [Testowanie oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
 # Webinars
 
 # My test case examples
