@@ -13,7 +13,7 @@ University of Szczecin, Szczecin, Poland. Recently I realized that I'd like to b
 # Courses
 
 # Books
-
+* A. Roman, L. Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
 # Facebook groups
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
 * [Testowanie oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
