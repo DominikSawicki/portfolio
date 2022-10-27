@@ -5,7 +5,16 @@ My name is Dominik Sawicki. I graduated with a master degree in management at th
 
 # Tools
 * [draw.io](https://app.diagrams.net/) - Flowchart and diagram making software
+
 # Tech Skills
+* MS Office
+* ISTQB FL
+* REST/SOAP
+* SQL (MySQL)
+* JIRA
+* Testlink
+* Agile
+* Test case development
 
 # Soft skills
 * Self-management skills
