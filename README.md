@@ -28,16 +28,16 @@ My name is Dominik Sawicki. I graduated with a master degree in management at th
 * Teamwork
 * Creativity
 # Certificates
-
+* ISTQB FL - scheduled at 19.11.2022
 # Courses
-
+* Coders Lab - szkoła IT - Manual Tester
 # Books
 * A. Roman, L. Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
 # Facebook groups
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
 * [Testowanie oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
 # Webinars
-
+* 27.10.2022 - "Testowanie na żywo! Zobacz, jak wygląda praca testera od kuchni"
 # My test case examples
 
 # My bug reports
