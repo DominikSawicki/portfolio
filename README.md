@@ -43,6 +43,7 @@ My name is Dominik Sawicki. I graduated with a master degree in management at th
 
 # Webinars
 * 27.10.2022 - "Testowanie na żywo! Zobacz, jak wygląda praca testera od kuchni"
+* 08.11.2022 - "Jakie są szanse i wyzwania związane z zatrudnianiem juniorów w branży IT"
 
 # My test case examples
 
