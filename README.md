@@ -3,6 +3,9 @@
 # About Me
 My name is Dominik Sawicki. I graduated with a master degree in management at the University of Szczecin, Poland. Currently I'm working in Eversis as Junior Quality Manager. My long-term goal is to develop testing knowledge and technical skills. I'd like to share all of my experience in this readme file.
 
+# Experience
+* Eversis - 12.2022 - current
+
 # Tools
 * [JIRA](https://www.atlassian.com/software/jira) - proprietary issue tracking product that allows bug tracking and agile project management
 * [Zephyr Scale](https://marketplace.atlassian.com/apps/1213259/zephyr-scale-test-management-for-jira?tab=overview&hosting=cloud) - a scalable, performant test management solution inside Jira with advanced test planning, reporting, and reusability features
@@ -46,6 +49,7 @@ My name is Dominik Sawicki. I graduated with a master degree in management at th
 # Webinars
 * 27.10.2022 - "Testowanie na żywo! Zobacz, jak wygląda praca testera od kuchni"
 * 08.11.2022 - "Jakie są szanse i wyzwania związane z zatrudnianiem juniorów w branży IT"
+* 30.05.2023 - QA Global Summit '23 - Junior Track
 
 # My test case examples
 
