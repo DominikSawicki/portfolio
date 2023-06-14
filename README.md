@@ -4,7 +4,7 @@
 My name is Dominik Sawicki. I graduated with a master degree in management at the University of Szczecin, Poland. Currently I'm working in Eversis as Junior Quality Manager. My long-term goal is to develop testing knowledge and technical skills. I'd like to share all of my experience in this readme file.
 
 # Experience
-* Eversis - 12.2022 - current
+* [Eversis](https://eversis.com) - 12.2022 - current
 
 # Tools
 * [JIRA](https://www.atlassian.com/software/jira) - proprietary issue tracking product that allows bug tracking and agile project management
